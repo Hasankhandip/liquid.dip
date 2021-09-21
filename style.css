@@ -759,6 +759,7 @@
 }
 .m-bt {
   margin: 0 !important;
+  text-align: center;
 }
 .m-bt p {
   color: #999 !important;
@@ -1427,5 +1428,5 @@
   background: #3b5999;
 }
 .log-other {
-  margin-top: 50px;
+  margin-top: 40px;
 }

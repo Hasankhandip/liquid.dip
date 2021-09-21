@@ -530,6 +530,10 @@
   .banner-btn {
     text-align: center;
   }
+  .account-btn > a {
+    font-size: 12px;
+    padding: 10px 15px;
+  }
 }
 @media (max-width: 450px) {
   .banner-bg {

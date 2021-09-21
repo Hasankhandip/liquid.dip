@@ -453,6 +453,9 @@
   .f-inner {
     margin: 0 80px;
   }
+  .c-icon {
+    margin-bottom: 0;
+  }
 }
 @media (max-width: 576px) {
   .hdr-row {

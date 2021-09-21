@@ -274,6 +274,7 @@
   }
   .m-bt p {
     display: block !important;
+    text-align: left;
   }
   .banner-text {
     display: block;
